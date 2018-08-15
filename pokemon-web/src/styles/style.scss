@@ -1,0 +1,23 @@
+// Project specific
+@import "global";
+
+// third party css
+#searchPanel
+{
+  text-align: center;
+  color: #409eff;
+  height: 70px;
+  line-height: 26px;
+  border-radius: 8px;
+  border: 1px rgba(64, 158, 255, 0.5) solid;
+}
+.each_info {
+  margin: 0em 5em 0em 5em;
+  display: inline-block;
+}
+.count_number{
+  font-weight: bold;
+  font-size: 24px;
+  margin: 0.5em 0em -0.7em 0em;
+  color: rgb(0, 212, 175);
+}
