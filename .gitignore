@@ -1,1 +1,10 @@
 conf/config-dev.ini
+
+.idea/
+*.iml
+.project
+.classpath
+target/
+dist/
+.DS_Store
+*dist.tgz
